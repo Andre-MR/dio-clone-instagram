@@ -22,7 +22,6 @@ body {
     align-items: center;
     justify-content: start;
     width: 90%;
-    /* width: 60%; */
     height: 100vh;
 }
 
@@ -30,7 +29,6 @@ body {
     float: left;
     margin-right: 5%;
     display: none;
-    /* display: flex; */
     align-items: center;
     justify-content: center;
     width: 50%;
@@ -47,7 +45,6 @@ body {
     justify-content: space-around;
     flex-direction: column;
     width: 100%;
-    /* width: 50%; */
     height: 40rem;
 }
 
